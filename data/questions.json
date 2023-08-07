@@ -1,0 +1,142 @@
+{
+
+"questions" : [
+    {
+        "type": "multiple_choice",
+        "question": "What is 2 + 3?",
+        "options": ["4", "5", "6", "7"],
+        "correct_answer": "5",
+        "points": 3
+    },
+    {
+        "type": "multiple_choice",
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Mars", "Mercury", "Earth"],
+        "correct_answer": "Mercury",
+        "points": 3
+    },
+    {
+        "type": "question_correct_answer",
+        "question": "What is the capital city of India?",
+        "correct_answer": "New Delhi",
+        "points": 2
+    },
+    {
+        "type": "multiple_choice",
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+        "correct_answer": "Carbon Dioxide",
+        "points": 3
+    },
+    {
+        "type": "question_correct_answer",
+        "question": "Who was the first President of the United States?",
+        "correct_answer": "George Washington",
+        "points": 2
+    },
+    {
+        "type": "multiple_choice",
+        "question": "What do you use to type a document on a computer?",
+        "options": ["Mouse", "Keyboard", "Monitor", "Printer"],
+        "correct_answer": "Keyboard",
+        "points": 3
+    },
+    {
+        "type": "question_correct_answer",
+        "question": "What is 7 multiplied by 9?",
+        "correct_answer": "63",
+        "points": 2
+    },
+    {
+        "type": "multiple_choice",
+        "question": "Which animal is known for its black and white stripes?",
+        "options": ["Zebra", "Elephant", "Lion", "Giraffe"],
+        "correct_answer": "Zebra",
+        "points": 3
+    },
+    {
+        "type": "question_correct_answer",
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "correct_answer": "William Shakespeare",
+        "points": 2
+    },
+    {
+        "type": "multiple_choice",
+        "question": "What is the study of stars and planets called?",
+        "options": ["Geology", "Astronomy", "Biology", "Chemistry"],
+        "correct_answer": "Astronomy",
+        "points": 3
+    },
+    {
+      "type": "multiple_choice",
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Rome"],
+      "correct_answer": "Paris",
+      "points": 2
+    },
+    {
+      "type": "fill_in_the_blanks",
+      "question": "The _____ is the largest planet in the Solar System.",
+      "correct_answer": "Jupiter",
+      "points": 1
+    },
+    {
+      "type": "question_answer",
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "correct_answer": "William Shakespeare",
+      "points": 2
+    },
+    {
+      "type": "multiple_choice",
+      "question": "Which of the following is NOT a prime number?",
+      "options": ["2", "3", "9", "7"],
+      "correct_answer": "9",
+      "points": 1
+    },
+    {
+      "type": "sentence_answer",
+      "question": "Describe the process of photosynthesis in one sentence.",
+      "correct_answer": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize food from carbon dioxide and water.",
+      "points": 4
+    },
+{
+    "type": "multiple_choice",
+    "question": "What direction is opposite to North?",
+    "options": ["South", "East", "West", "North"],
+    "correct_answer": "South",
+    "points": 1
+},{
+    "type": "fill_in_the_blank",
+    "question": "The sun rises in the ____ and sets in the ____.",
+    "correct_answer": "East,West",
+    "points": 2
+},
+{
+    "type": "multiple_choice",
+    "question": "Which animal is known as the king of the jungle?",
+    "options": ["Elephant", "Tiger", "Lion", "Cheetah"],
+    "correct_answer": "Lion",
+    "points": 1
+},
+{
+    "type": "question_answer",
+    "question": "What is the largest mammal on Earth?",
+    "correct_answer": "Blue Whale",
+    "points": 2
+},
+{
+    "type": "reading_comprehension",
+    "question": "The heart pumps blood throughout the body. The lungs allow us to breathe. What organ pumps blood?",
+    "correct_answer": "Heart",
+    "points": 2
+},
+{
+    "type": "sentence_answer",
+    "question": "Name the organ responsible for filtering blood in the human body.",
+    "correct_answer": "Kidney",
+    "points": 2
+}
+
+
+]
+}

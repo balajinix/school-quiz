@@ -135,6 +135,88 @@
     "question": "Name the organ responsible for filtering blood in the human body.",
     "correct_answer": "Kidney",
     "points": 2
+},
+{
+    "type": "multiple_choice",
+    "question": "What type of house is built on stilts over water?",
+    "options": ["Stilt House", "Igloo", "Bungalow", "Duplex"],
+    "correct_answer": "Stilt House",
+    "points": 3
+},
+{
+    "type": "multiple_choice",
+    "question": "Which type of house is often associated with a single-story design?",
+    "options": ["Villa", "Bungalow", "Apartment", "Townhouse"],
+    "correct_answer": "Bungalow",
+    "points": 3
+},
+{
+    "type": "reading_comprehension",
+    "passage": "The Tudor house was a type of architecture popular in England during the Tudor era. These houses featured steeply pitched roofs, decorative half-timbering, and large chimneys.",
+    "question": "What were the distinctive features of Tudor houses?",
+    "correct_answer": "Steeply pitched roofs, decorative half-timbering, and large chimneys.",
+    "points": 5
+},
+{
+    "type": "fill_in_the_blank",
+    "question": "A ________ is a type of house that shares one or more walls with another residence.",
+    "correct_answer": "Townhouse",
+    "points": 3
+},
+{
+    "type": "fill_in_the_blank",
+    "question": "An apartment building typically consists of many individual ________.",
+    "correct_answer": "Units",
+    "points": 3
+},
+{
+    "type": "true_false",
+    "question": "A duplex is a type of house that is divided into two separate residences.",
+    "correct_answer": "True",
+    "points": 2
+},
+{
+    "type": "true_false",
+    "question": "Igloos are typically made of bricks and mortar.",
+    "correct_answer": "False",
+    "points": 2
+},
+{
+    "type": "multiple_choice",
+    "question": "If you are facing North and you turn 90 degrees to your right, which direction are you now facing?",
+    "options": ["East", "West", "South", "North"],
+    "correct_answer": "East",
+    "points": 3
+},
+{
+    "type": "multiple_choice",
+    "question": "What is the opposite direction of Northwest?",
+    "options": ["Northeast", "Southeast", "Southwest", "West"],
+    "correct_answer": "Southeast",
+    "points": 3
+},
+{
+    "type": "fill_in_the_blank",
+    "question": "The acronym NEWS stands for North, East, _______, South.",
+    "correct_answer": "West",
+    "points": 3
+},
+{
+    "type": "fill_in_the_blank",
+    "question": "If you are facing South and turn 180 degrees, you will be facing ________.",
+    "correct_answer": "North",
+    "points": 3
+},{
+    "type": "true_false",
+    "question": "The sun rises in the West.",
+    "correct_answer": "False",
+    "points": 2
+},
+{
+    "type": "true_false",
+    "question": "Southwest is a compound direction made up of South and West.",
+    "correct_answer": "True",
+    "points": 2
 }
 
 
